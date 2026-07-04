@@ -1,0 +1,6 @@
+{
+  "name": "Hyperlocal Health & Safety Advisor",
+  "description": "An AI-powered chatbot and dashboard for real-time hyperlocal community alerts, weather advisory, air quality tracking, municipal notices, and citizen-reported safety events.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
